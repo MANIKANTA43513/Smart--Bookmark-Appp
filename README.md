@@ -3,7 +3,7 @@ A simple and secure bookmark manager built using Next.js (App Router) and Supaba
 Users can log in using Google OAuth, add bookmarks, delete them, and see updates in real-time without refreshing the page.
 🔗 Live Links
 🌐 Live App (Vercel Deployment):
-
+https://smart-bookmark-appp.vercel.app/
 💻 GitHub Repository:
 
 🎥 Screen Recording (Demo Video):
