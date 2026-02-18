@@ -5,7 +5,7 @@ Users can log in using Google OAuth, add bookmarks, delete them, and see updates
 🌐 Live App (Vercel Deployment):
 https://smart-bookmark-appp.vercel.app/
 💻 GitHub Repository:
-
+https://github.com/MANIKANTA43513/Smart--Bookmark-Appp.git
 🎥 Screen Recording (Demo Video):
 
 
